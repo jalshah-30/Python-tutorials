@@ -1,0 +1,1 @@
+'''seek(),tell() and other function'''
