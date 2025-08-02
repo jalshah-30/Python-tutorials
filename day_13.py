@@ -23,7 +23,7 @@ print(name.count("i"))     #counts the number of times a letter or name is used
 print(name.endswith("i"))
 print(name.endswith("!!")) #Checks whether it ends with the given or not
 
-love="Hitanshi"
+love="Jal"
 print(love.endswith("n",1,5))
 print(love.find("i"))  #finds the first occured letter and gives output as index
 # print(love.index("j"))
