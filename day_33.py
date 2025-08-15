@@ -25,8 +25,8 @@ print(dic2['name'])   #Gives error if dict does not contain it
 print(dic2.get('name')) #Gives no error if dict does not contain it
 print(dic2.keys())  #gives all keys as output
 
-# for key in dic2.keys():
-#     print(f"{key}:{dic2[key]}")
+for key in dic2.keys():
+    print(f"{key}:{dic2[key]}")
 
-for key , value in dic2.items():
-    print(f"{key}:{value}")
+# for key , value in dic2.items():
+#     print(f"{key}:{value}")
