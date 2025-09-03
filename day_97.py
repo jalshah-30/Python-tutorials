@@ -47,6 +47,5 @@ def PoolingDemo():
 
     for result in results:
        print(result)
-    
 
 PoolingDemo()
